@@ -9,6 +9,8 @@ This is a test to trial the markdown language which I have not used beofre.
 
 ```markdown
 I think this will look different to the rest of the page.
+```
+
 
 # This is a header of some description, but there isn't any body to go with it. Nevermind.
 
@@ -20,7 +22,6 @@ or
 -False
 
 I think that it's **True**
-```
 
 
 # Below I will attempt to include a picture. I haven't decided what it will be yet
