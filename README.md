@@ -18,8 +18,7 @@ I think this will look different to the rest of the page.
 
 The statement above is either:
 - True
-or 
--False
+or False
 
 I think that it's **True**
 
