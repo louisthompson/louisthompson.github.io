@@ -1,37 +1,32 @@
 ## You are **BOLD**, always believe in your soul
 
-You can use the [editor on GitHub](https://github.com/louisthompson/louisthompson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This is not a Spandau Ballet fan page
 
-### Markdown
+This is a test to trial the markdown language which I have not used beofre.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+```some form of table
+I think this will look different to the rest of the page.
 
-- Bulleted
-- List
+# This is a header of some description, but there isn't any body to go with it. Nevermind.
 
-1. Numbered
-2. List
+## This is either a smaller or a bigger font sized header than the last one.
 
-**Bold** and _Italic_ and `Code` text
+The statement above is either:
+- True
+or 
+-False
 
-[Link](url) and ![Image](src)
+I think that it's **True**
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Below I will attempt to include a picture. I haven't decided what it will be yet
+_I'll have to have a look on my computer to see what I have saved_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/louisthompson/louisthompson.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I didn't have a picture, so I found this one on the internet.
 
-### Support or Contact
+![useful image]({{ louisthompson.github.io }}/Pictures/download.jfif)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
